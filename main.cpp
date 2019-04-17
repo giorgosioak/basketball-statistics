@@ -42,7 +42,7 @@ int main () {
         if (statistic == "show"){
             final_print();
         } else if (statistic == "NAME") {
-            iss >> team_name;
+            getline(iss, team_name);
         } else {
             iss >> player_id;
             do_work(statistic,player_id-1);
