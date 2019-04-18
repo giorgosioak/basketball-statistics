@@ -18,7 +18,7 @@ Available commands:
 | Command           | What it does          |
 | ----------------- | --------------------- |
 | NAME team         | Set the team's name   |
-| SET x MANIKAS D.  | Set player to number x|    |
+| SET x Full Name   | Set player to number x|    |
 | FT x              | Free-Throw Made       |
 | AFT x             | Free-Throw Missed     |
 | 2P x              | 2 Point Made          |
